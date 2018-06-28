@@ -11,14 +11,14 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     @show
 
-    <title>TRABALHO FINAL WEB II</title>
+    <title>Trabalho Laravel</title>
     
     </head>
     <body>
         <div style="background-color: #F5F5F5; ">
             <div class ="container">
                 <div class ="p-3 mb-2 bg-gradient-light text-dark">
-                    <a href = "/Inicial/" class ="btn btn-primary">Trabalgo Laravel Web II</a>
+                    <a href = "/Inicial/" class ="btn btn-primary">Trabalho Laravel Web II</a>
                 </div>
                 
                 <div>
@@ -61,5 +61,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </body>
+  <div class="card text-center">
+  <div class="card-body">
+    <h5 class="card-title">Contato</h5>
+    <a href="mailto:adrianowarmling@unidavi.edu.br" class="btn btn-primary">Envie-me um email.</a>
+    <p>Telefone: (47) 98846-4596
+  </div>
+  <div class="card-footer text-muted text-center">
+    Rio do Sul UNIDAVI
+  </div>
+</div>
   
 </html>
